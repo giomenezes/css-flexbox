@@ -1,0 +1,31 @@
+.pai {
+    background-color: rgb(255, 224, 245); 
+    width:800px; 
+    height:250px; 
+    border: solid 2px #000; 
+    margin: 10px;
+}
+
+.caixa {
+    background-color: rgb(165, 117, 255); 
+    width:100px; 
+    height:100px; 
+    border-radius:50px;
+}
+
+.titulo {
+    font-family: cursive; 
+}
+
+.cor-padrao {
+    color: rgb(255, 153, 209); font-size:25px;
+}
+
+.cor-mensagem {
+    color: rgb(45, 172, 172); font-size: 25px
+}
+
+.cor-morango {
+    color: red;
+}
+
